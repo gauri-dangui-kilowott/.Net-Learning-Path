@@ -1,0 +1,15 @@
+C:\Users\Gauri dangui\source\repos\DotNet_Assignment\bin\Debug\net6.0\DotNet_Assignment.exe
+C:\Users\Gauri dangui\source\repos\DotNet_Assignment\bin\Debug\net6.0\DotNet_Assignment.deps.json
+C:\Users\Gauri dangui\source\repos\DotNet_Assignment\bin\Debug\net6.0\DotNet_Assignment.runtimeconfig.json
+C:\Users\Gauri dangui\source\repos\DotNet_Assignment\bin\Debug\net6.0\DotNet_Assignment.dll
+C:\Users\Gauri dangui\source\repos\DotNet_Assignment\bin\Debug\net6.0\ref\DotNet_Assignment.dll
+C:\Users\Gauri dangui\source\repos\DotNet_Assignment\bin\Debug\net6.0\DotNet_Assignment.pdb
+C:\Users\Gauri dangui\source\repos\DotNet_Assignment\obj\Debug\net6.0\DotNet_Assignment.csproj.AssemblyReference.cache
+C:\Users\Gauri dangui\source\repos\DotNet_Assignment\obj\Debug\net6.0\DotNet_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gauri dangui\source\repos\DotNet_Assignment\obj\Debug\net6.0\DotNet_Assignment.AssemblyInfoInputs.cache
+C:\Users\Gauri dangui\source\repos\DotNet_Assignment\obj\Debug\net6.0\DotNet_Assignment.AssemblyInfo.cs
+C:\Users\Gauri dangui\source\repos\DotNet_Assignment\obj\Debug\net6.0\DotNet_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Gauri dangui\source\repos\DotNet_Assignment\obj\Debug\net6.0\DotNet_Assignment.dll
+C:\Users\Gauri dangui\source\repos\DotNet_Assignment\obj\Debug\net6.0\ref\DotNet_Assignment.dll
+C:\Users\Gauri dangui\source\repos\DotNet_Assignment\obj\Debug\net6.0\DotNet_Assignment.pdb
+C:\Users\Gauri dangui\source\repos\DotNet_Assignment\obj\Debug\net6.0\DotNet_Assignment.genruntimeconfig.cache
