@@ -8,7 +8,7 @@ namespace My_All_Challenges // Note: actual namespace depends on the project nam
     {
         public static void Main(string[] args)
         {
-            /*Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
             Challenge1.Print();
             Challenge2.Print_Var();
             Challenge3.Print_Message();
@@ -18,7 +18,7 @@ namespace My_All_Challenges // Note: actual namespace depends on the project nam
             
             Challenge7.Array_chal();
             Challenge8.Code_more_readable();
-            */
+            
         }
     }
 }
