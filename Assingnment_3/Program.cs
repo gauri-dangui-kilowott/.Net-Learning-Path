@@ -1,8 +1,13 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace DotNet_Assignment // Note: actual namespace depends on the project name.
+namespace Assignment_3
+    // Note: actual namespace depends on the project name.
 {
 
     public class Program
@@ -10,7 +15,6 @@ namespace DotNet_Assignment // Note: actual namespace depends on the project nam
         static int[] test_data = { 40, 38, 37, 36, 34, 33, 32, 31, 30, 30, 30, 29, 26, 26, 19 };
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
             var scObject = new StatsCalc();
 
             scObject.Numbers = test_data;
@@ -24,6 +28,7 @@ namespace DotNet_Assignment // Note: actual namespace depends on the project nam
             /// console i/o is not the responsibility of the StatsProcessor class!
             Console.WriteLine($"Average: {result.Mean}");
             Console.WriteLine($"Median: {result.Median}");
+            Console.WriteLine($"Mode :{ result.Mode}");
 
 
         }

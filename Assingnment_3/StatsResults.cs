@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assingnment_3
+namespace Assignment_3
 {
     internal class StatsResults
     {
@@ -12,5 +12,7 @@ namespace Assingnment_3
         public int Median { get; set; }
 
         public int Mode { set; get; }
+
+       
     }
 }
