@@ -24,7 +24,7 @@ namespace Assingnment_3
             return result;
         }
 
-        public decimal CalculateMean()
+        private decimal CalculateMean()
         {
 
             int sum = 0;
@@ -40,7 +40,7 @@ namespace Assingnment_3
             return mean;
         }
 
-        public int CalculateMedian()
+        private int CalculateMedian()
         {
 
             //To calculate the median
@@ -53,7 +53,7 @@ namespace Assingnment_3
 
         }
 
-        public int CalculateMode()
+        private int CalculateMode()
 
         {
             int maxcount = 0, maxnum = 0;
