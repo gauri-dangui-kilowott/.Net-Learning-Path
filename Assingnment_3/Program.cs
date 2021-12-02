@@ -29,7 +29,7 @@ namespace Assignment_3
             Console.WriteLine($"Average: {result.Mean}");
             Console.WriteLine($"Median: {result.Median}");
             Console.WriteLine($"Mode :{ result.Mode}");
-
+            
 
         }
     }
